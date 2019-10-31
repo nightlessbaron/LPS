@@ -1,5 +1,5 @@
 # LPS
 A local positioning system for our college campus.
 
-![Poster](Screenshot (3).png)
+![Poster](https://github.com/nightlessbaron/LPS/tree/nightlessbaron-patch-2/poster.png)
 
